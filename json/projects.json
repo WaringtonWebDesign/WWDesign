@@ -1,0 +1,28 @@
+[
+    {
+        "title": "West Coast Marine",
+        "category": "Boat Dealership",
+        "image": "../images/project images/west-coast-marine.png",
+        "description": "West Coast Marine is a boat dealership website built using HTML, CSS, JSON and JavaScript. The website features a modern, responsive design.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "JSON"
+        ],
+        "path": "../projects/west-coast-marine/index.html"
+    },
+    {
+        "title": "The Corner Cup",
+        "category": "Coffee Shop",
+        "image": "../images/project images/the-corner-cup.png",
+        "description": "The Corner Cup is a coffee shop website built using HTML, CSS, JSON and JavaScript. The website features a responsive, inviting design.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "JSON"
+        ],
+        "path": "../projects/the-corner-cup/index.html"
+    }
+]

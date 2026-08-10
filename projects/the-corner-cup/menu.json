@@ -1,0 +1,397 @@
+[
+    {
+        "name": "Flat White",
+        "category": "coffee",
+        "price": "£3.40",
+        "description": "Double espresso with silky steamed milk.",
+        "image": "../images/menu/flat-white.jpg",
+        "popular": true
+    },
+    {
+        "name": "Latte",
+        "category": "coffee",
+        "price": "£3.60",
+        "description": "Smooth espresso with perfectly steamed milk.",
+        "image": "../images/menu/latte.jpg",
+        "popular": false
+    },
+    {
+        "name": "Cappuccino",
+        "category": "coffee",
+        "price": "£3.60",
+        "description": "Espresso with steamed milk and rich foam.",
+        "image": "../images/menu/cappuccino.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Americano",
+        "category": "coffee",
+        "price": "£3.10",
+        "description": "Freshly brewed espresso topped with hot water.",
+        "image": "../images/menu/americano.jpeg",
+        "popular": false
+    },
+
+    {
+        "name": "English Breakfast Tea",
+        "category": "tea",
+        "price": "£2.80",
+        "description": "Classic full-bodied breakfast tea.",
+        "image": "../images/menu/english-breakfast-tea.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Earl Grey",
+        "category": "tea",
+        "price": "£2.90",
+        "description": "Fragrant black tea with bergamot.",
+        "image": "../images/menu/earl-grey.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Green Tea",
+        "category": "tea",
+        "price": "£2.90",
+        "description": "Light and refreshing green tea.",
+        "image": "../images/menu/green-tea.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Peppermint Tea",
+        "category": "tea",
+        "price": "£2.90",
+        "description": "Naturally caffeine-free herbal tea.",
+        "image": "../images/menu/peppermint-tea.jpg",
+        "popular": false
+    },
+
+    {
+        "name": "Iced Latte",
+        "category": "iced",
+        "price": "£3.90",
+        "description": "Smooth espresso served over ice with chilled milk.",
+        "image": "../images/menu/iced-latte.jpeg",
+        "popular": true
+    },
+    {
+        "name": "Iced Mocha",
+        "category": "iced",
+        "price": "£4.20",
+        "description": "Espresso, chocolate and chilled milk over ice.",
+        "image": "../images/menu/iced-mocha.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Iced Matcha Latte",
+        "category": "iced",
+        "price": "£4.30",
+        "description": "Premium matcha blended with cold milk and ice.",
+        "image": "../images/menu/iceed-matcha-latte.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Iced Chai Latte",
+        "category": "iced",
+        "price": "£4.20",
+        "description": "Spiced chai served over ice with creamy milk.",
+        "image": "../images/menu/iced-chai-latte.jpeg",
+        "popular": false
+    },
+
+    {
+        "name": "Coca-Cola",
+        "category": "cold",
+        "price": "£2.60",
+        "description": "Classic Coca-Cola served chilled.",
+        "image": "../images/menu/cola.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Still Water",
+        "category": "cold",
+        "price": "£1.90",
+        "description": "Refreshing bottled mineral water.",
+        "image": "../images/menu/water.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Fresh Orange Juice",
+        "category": "cold",
+        "price": "£3.20",
+        "description": "Freshly squeezed orange juice.",
+        "image": "../images/menu/orange-juice.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Sparkling Lemonade",
+        "category": "cold",
+        "price": "£2.90",
+        "description": "Refreshing sparkling lemonade served chilled.",
+        "image": "../images/menu/lemonade.jpeg",
+        "popular": false
+    },
+
+    {
+        "name": "Full English Breakfast",
+        "category": "breakfast",
+        "price": "£10.95",
+        "description": "A hearty cooked breakfast with toast.",
+        "image": "../images/menu/full-english.jpeg",
+        "popular": true
+    },
+    {
+        "name": "Avocado Toast",
+        "category": "breakfast",
+        "price": "£8.95",
+        "description": "Smashed avocado served on toasted sourdough.",
+        "image": "../images/menu/avacado-toast.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Eggs Benedict",
+        "category": "breakfast",
+        "price": "£9.95",
+        "description": "Poached eggs, hollandaise and toasted muffin.",
+        "image": "../images/menu/eggs-benedict.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Granola Bowl",
+        "category": "breakfast",
+        "price": "£6.95",
+        "description": "Greek yoghurt with berries and crunchy granola.",
+        "image": "../images/menu/granola-bowl.jpeg",
+        "popular": false
+    },
+
+    {
+        "name": "Chicken Caesar Salad",
+        "category": "brunch",
+        "price": "£10.50",
+        "description": "Grilled chicken, parmesan and crisp romaine lettuce.",
+        "image": "../images/menu/chicken-caesar.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Shakshuka",
+        "category": "brunch",
+        "price": "£9.95",
+        "description": "Poached eggs in a rich spiced tomato sauce.",
+        "image": "../images/menu/shakshuka.jpeg",
+        "popular": true
+    },
+    {
+        "name": "Smoked Salmon Bagel",
+        "category": "brunch",
+        "price": "£9.50",
+        "description": "Smoked salmon with cream cheese and rocket.",
+        "image": "../images/menu/smoked-salmon-bagel.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Breakfast Burrito",
+        "category": "brunch",
+        "price": "£9.95",
+        "description": "Egg, sausage, cheese and hash browns wrapped in a tortilla.",
+        "image": "../images/menu/breakfast-burrito.jpeg",
+        "popular": false
+    },
+        {
+        "name": "Ham & Cheese Toastie",
+        "category": "toasties",
+        "price": "£7.95",
+        "description": "Toasted sourdough filled with ham and mature cheddar.",
+        "image": "../images/menu/ham-cheese.jpeg",
+        "popular": true
+    },
+    {
+        "name": "Cheese & Onion Toastie",
+        "category": "toasties",
+        "price": "£7.50",
+        "description": "Mature cheddar with red onion on toasted sourdough.",
+        "image": "../images/menu/cheese-onion.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Chicken Pesto Toastie",
+        "category": "toasties",
+        "price": "£8.50",
+        "description": "Chicken, mozzarella and basil pesto.",
+        "image": "../images/menu/pesto-chicken.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Tuna Melt",
+        "category": "toasties",
+        "price": "£8.25",
+        "description": "Creamy tuna mayo topped with melted cheddar.",
+        "image": "../images/menu/tuna-melt.jpeg",
+        "popular": false
+    },
+
+    {
+        "name": "Chicken Club Sandwich",
+        "category": "sandwiches",
+        "price": "£8.95",
+        "description": "Grilled chicken, bacon, lettuce and tomato.",
+        "image": "../images/menu/chicken-club.jpeg",
+        "popular": false
+    },
+    {
+        "name": "BLT",
+        "category": "sandwiches",
+        "price": "£7.95",
+        "description": "Bacon, lettuce and tomato on bloomer bread.",
+        "image": "../images/menu/blt.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Ham & Cheese Sandwich",
+        "category": "sandwiches",
+        "price": "£7.50",
+        "description": "Classic ham with mature cheddar.",
+        "image": "../images/menu/ham-and-cheese.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Tuna Mayo Sandwich",
+        "category": "sandwiches",
+        "price": "£7.50",
+        "description": "Creamy tuna mayo with mixed leaves.",
+        "image": "../images/menu/tuna-mayo.jpeg",
+        "popular": true
+    },
+
+    {
+        "name": "Butter Croissant",
+        "category": "pastries",
+        "price": "£2.95",
+        "description": "Freshly baked buttery croissant.",
+        "image": "../images/menu/butter-croissant.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Pain au Chocolat",
+        "category": "pastries",
+        "price": "£3.20",
+        "description": "Flaky pastry with rich chocolate.",
+        "image": "../images/menu/pain-au-chocolat.jpeg",
+        "popular": true
+    },
+    {
+        "name": "Almond Croissant",
+        "category": "pastries",
+        "price": "£3.50",
+        "description": "Buttery croissant filled with almond cream.",
+        "image": "../images/menu/almond-croissant.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Cinnamon Swirl",
+        "category": "pastries",
+        "price": "£3.30",
+        "description": "Soft pastry finished with cinnamon sugar.",
+        "image": "../images/menu/cinnamon-swirl.jpeg",
+        "popular": false
+    },
+
+    {
+        "name": "Victoria Sponge",
+        "category": "cakes",
+        "price": "£4.20",
+        "description": "Traditional sponge with jam and cream.",
+        "image": "../images/menu/sponge.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Carrot Cake",
+        "category": "cakes",
+        "price": "£4.50",
+        "description": "Moist carrot cake with cream cheese frosting.",
+        "image": "../images/menu/carrot.jpeg",
+        "popular": true
+    },
+    {
+        "name": "Chocolate Brownie",
+        "category": "cakes",
+        "price": "£3.80",
+        "description": "Rich chocolate brownie with a fudgy centre.",
+        "image": "../images/menu/brownie.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Lemon Drizzle Cake",
+        "category": "cakes",
+        "price": "£4.20",
+        "description": "Classic lemon sponge finished with icing.",
+        "image": "../images/menu/lemon.jpeg",
+        "popular": false
+    },
+
+    {
+        "name": "Chocolate Chip Cookie",
+        "category": "snacks",
+        "price": "£2.40",
+        "description": "Freshly baked cookie packed with chocolate chips.",
+        "image": "../images/menu/choclate.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Millionaire Shortbread",
+        "category": "snacks",
+        "price": "£3.20",
+        "description": "Shortbread layered with caramel and chocolate.",
+        "image": "../images/menu/shortbread.jpeg",
+        "popular": true
+    },
+    {
+        "name": "Flapjack",
+        "category": "snacks",
+        "price": "£2.80",
+        "description": "Traditional buttery oat flapjack.",
+        "image": "../images/menu/flapjack.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Rocky Road",
+        "category": "snacks",
+        "price": "£3.20",
+        "description": "Chocolate, biscuit and marshmallow treat.",
+        "image": "../images/menu/rocky-road.jpeg",
+        "popular": false
+    },
+
+    {
+        "name": "Pumpkin Spice Latte",
+        "category": "seasonal",
+        "price": "£4.60",
+        "description": "Espresso with pumpkin spice syrup and steamed milk.",
+        "image": "../images/menu/pumpkin.jpeg",
+        "popular": true
+    },
+    {
+        "name": "Gingerbread Hot Chocolate",
+        "category": "seasonal",
+        "price": "£4.50",
+        "description": "Rich hot chocolate with festive gingerbread syrup.",
+        "image": "../images/menu/gingerbread.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Strawberry Iced Matcha",
+        "category": "seasonal",
+        "price": "£4.80",
+        "description": "Premium matcha layered with sweet strawberry puree.",
+        "image": "../images/menu/strawberry.jpeg",
+        "popular": false
+    },
+    {
+        "name": "Honey Lavender Latte",
+        "category": "seasonal",
+        "price": "£4.50",
+        "description": "Smooth espresso infused with honey and lavender.",
+        "image": "../images/menu/honey.jpeg",
+        "popular": false
+    }
+
+]

@@ -1,0 +1,297 @@
+[
+    {
+        "id": "haineshunter620patriot",
+
+        "name": "Haines Hunter 620 Patriot",
+
+        "price": "A$ 174,990",
+
+        "category": "Fishing",
+
+        "length": "6.20 m",
+
+        "engine": "200 HP",
+
+        "fuel": "230 L",
+
+        "description":"Built for serious offshore performance and comfort",
+
+        "images": [
+            "../../images/boats/haines-hunter-620.jpg",
+            "../../images/boats/haines2.jpg",
+            "../../images/boats/haines3.png",
+            "../../images/boats/haines4.jpg"
+        ],
+
+        "specifications": {
+            "Length": "6.20 m",
+            "Beam": "2.40 m",
+            "Height": "2.20 m",
+            "Maximum Capacity": "6 People",
+            "Fuel Capacity": "230 L",
+            "Maximum Horsepower": "200 HP",
+            "Hull Material": "Fiberglass",
+            "Dry Weight": "1,000 kg"
+        }
+    },
+
+    {
+        "id": "barcrusher615ht",
+
+        "name": "Bar Crusher 615 HT",
+
+        "price": "A$ 129,990",
+
+        "category": "Fishing",
+
+        "length": "6.15 m",
+
+        "engine": "150 HP",
+
+        "fuel": "200 L",
+
+        "description":"A versitile fishing boat with premium comfort and capability.",
+
+        "images": [
+            "../../images/boats/bar-crusher.jpg",
+            "../../images/boats/bar2.webp",
+            "../../images/boats/bar3.jpg",
+            "../../images/boats/bar4.webp"
+        ],
+
+        "specifications": {
+            "Length": "6.15 m",
+            "Beam": "2.25 m",
+            "Height": "2.00 m",
+            "Maximum Capacity": "6 People",
+            "Fuel Capacity": "200 L",
+            "Maximum Horsepower": "150 HP",
+            "Hull Material": "Aluminum",
+            "Dry Weight": "1,620 kg"
+        }
+    },
+
+    {
+        "id": "yellowfin6500",
+
+        "name": "Yellowfin 6500 Hard Top",
+
+        "price": "A$ 134,990",
+
+        "category": "Fishing",
+
+        "length": "6.55 m",
+
+        "engine": "200 HP",
+
+        "fuel": "260 L",
+
+        "description":"The ultimte fishing vessel with a rugged hardtop design.",
+
+        "images": [
+            "../../images/boats/yellowfin.jpg",
+            "../../images/boats/yellowfin2.jpg",
+            "../../images/boats/yellowfin3.jpg",
+            "../../images/boats/yellowfin4.jpg"
+        ],
+
+        "specifications": {
+            "Length": "6.55 m",
+            "Beam": "2.40 m",
+            "Height": "2.30 m",
+            "Maximum Capacity": "6 People",
+            "Fuel Capacity": "260 L",
+            "Maximum Horsepower": "200 HP",
+            "Hull Material": "Aluminum",
+            "Dry Weight": "1,100 kg"
+        }
+    },
+
+    {
+        "id": "quintrex570cruiseabout",
+
+        "name": "Quintrex 570 Cruiseabout",
+
+        "price": "A$ 69,990",
+
+        "category": "Family",
+
+        "length": "6.05 m",
+
+        "engine": "150 HP",
+
+        "fuel": "95 L",
+
+        "description":"Engineered for confident adventures and all-day comfort.",
+
+        "images": [
+            "../../images/boats/quintrex.jpg",
+            "../../images/boats/quintrex2.jpg",
+            "../../images/boats/quintrex3.jpg",
+            "../../images/boats/quintrex4.jpeg"
+        ],
+
+        "specifications": {
+            "Length": "6.05 m",
+            "Beam": "2.38 m",
+            "Height": "1.70 m",
+            "Maximum Capacity": "7 People",
+            "Fuel Capacity": "95 L",
+            "Maximum Horsepower": "150 HP",
+            "Hull Material": "Aluminum",
+            "Dry Weight": "620 kg"
+        }
+    },
+
+    {
+        "id": "stacer589searunner",
+
+        "name": "Stacer 589 Sea Runer",
+
+        "price": "A$ 74,990",
+
+        "category": "Family",
+
+        "length": "5.95 m",
+
+        "engine": "150 HP",
+
+        "fuel": "110 L",
+
+        "description":"Built to tackle offshore conditions with confidence and prescision.",
+
+        "images": [
+            "../../images/boats/stacer.jpg",
+            "../../images/boats/stacer2.jpeg",
+            "../../images/boats/stacer3.jpeg",
+            "../../images/boats/stacer4.jpeg"
+        ],
+
+        "specifications": {
+            "Length": "5.95 m",
+            "Beam": "2.29 m",
+            "Height": "1.80 m",
+            "Maximum Capacity": "7 People",
+            "Fuel Capacity": "110 L",
+            "Maximum Horsepower": "150 HP",
+            "Hull Material": "Aluminum",
+            "Dry Weight": "677 kg"
+        }
+    },
+
+    {
+        "id": "searayspx210",
+
+        "name": "Sea Ray SPX 210",
+
+        "price": "A$ 139,990",
+
+        "category": "Performance",
+
+        "length": "6.60 m",
+
+        "engine": "200 HP",
+
+        "fuel": "140 L",
+
+        "description":"Designed to deliver exceptional performance in Perth's coastal waters.",
+
+        "images": [
+            "../../images/boats/searay.jpg",
+            "../../images/boats/searay2.webp",
+            "../../images/boats/searay3.jpg",
+            "../../images/boats/searay4.jpg"
+        ],
+
+        "specifications": {
+            "Length": "6.60 m",
+            "Beam": "2.59 m",
+            "Height": "1.60 m",
+            "Maximum Capacity": "10 People",
+            "Fuel Capacity": "140 L",
+            "Maximum Horsepower": "200 HP",
+            "Hull Material": "Fiberglass",
+            "Dry Weight": "1,685 kg"
+        }
+    },
+
+    {
+        "id": "riviera4600sport",
+
+        "name": "Riviera 4600 Sport Yacht",
+
+        "price": "A$ 1,450,000",
+
+        "category": "Luxury",
+
+        "length": "15.31 m",
+
+        "engine": "1,200 HP",
+
+        "fuel": "2,100 L",
+
+        "description":"Crafted for anglers who demand reliability, performance and style.",
+
+        "images": [
+            "../../images/boats/riviera-4600.jpg",
+            "../../images/boats/riviera46002.jpg",
+            "../../images/boats/riviera46003.jpg",
+            "../../images/boats/riviera46004.jpg",
+            "../../images/boats/riviera46005.jpg",
+            "../../images/boats/riviera46006.jpg",
+            "../../images/boats/riviera46007.jpg",
+            "../../images/boats/riviera46008.jpg"
+        ],
+
+        "specifications": {
+            "Length": "15.31 m",
+            "Beam": "4.70 m",
+            "Height": "4.73 m",
+            "Maximum Sleeping Capacity": "6 People",
+            "Fuel Capacity": "2,100 L",
+            "Maximum Horsepower": "1,200 HP",
+            "Hull Material": "Fiberglass",
+            "Dry Weight": "19,200 kg"
+        }
+    },
+
+    {
+        "id": "riviera6000sport",
+
+        "name": "Riviera 6000 Sport Yacht",
+
+        "price": "A$ 3,200,000",
+
+        "category": "Luxury",
+
+        "length": "19.30 m",
+
+        "engine": "1,450 HP",
+
+        "fuel": "3,300 L",
+
+        "description":"Built for serious offshore adventures with performance and comfort.",
+
+        "images": [
+            "../../images/boats/riviera-6000.jpg",
+            "../../images/boats/riviera60002.jpg",
+            "../../images/boats/riviera60003.jpg",
+            "../../images/boats/riviera60004.jpg",
+            "../../images/boats/riviera60005.jpg",
+            "../../images/boats/riviera60006.jpg",
+            "../../images/boats/riviera60007.jpg",
+            "../../images/boats/riviera60008.jpg"
+        ],
+
+        "specifications": {
+            "Length": "19.30 m",
+            "Beam": "5.38 m",
+            "Height": "5.50 m",
+            "Maximum Sleeping Capacity": "6 People",
+            "Fuel Capacity": "3,300 L",
+            "Maximum Horsepower": "1,450 HP",
+            "Hull Material": "Fiberglass",
+            "Dry Weight": "26,964 kg"
+        }
+    } 
+]

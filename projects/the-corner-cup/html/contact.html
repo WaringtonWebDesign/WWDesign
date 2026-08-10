@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Us | The Corner Cup</title>
+    <link rel="stylesheet" href="../styles.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+
+</head>
+<body>
+    
+    <!--==========================================================NAVIGATION==========================================================-->
+
+    <a href="../../../html/projects.html" class="back-button">
+        ← Back to Warrington Web Design
+    </a>
+
+    <header>
+
+        <nav class="navbar">
+
+            <a href="home.html" class="logo">
+                <img src="../images/logo.png" alt="The Corner Cup Logo">
+            </a>
+
+            <ul class="nav-links">
+
+                <li><a href="home.html">Home</a></li>
+                <li><a href="menu.html">Menu</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="find-us.html">Visit Us</a></li>
+                <li><a href="contact.html" class="active">Contact</a></li>
+                <li><a href="reviews.html">Reviews</a></li>
+
+            </ul>
+
+            <a href="contact.html" class="cta-button">Find Us</a>
+
+            <div class="menu-toggle" id="menuToggle">
+                ☰
+            </div>
+
+        </nav>
+
+    </header>
+
+    <main>
+
+        <!-- ==========================
+            PAGE HERO
+        =========================== -->
+
+        <section class="contact-hero">
+
+            <div class="hero-overlay">
+
+                <div class="contact-hero-content">
+
+                    <h1>Contact Us</h1>
+
+                    <p>Have a question? We'd love to hear from you.</p>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ==========================
+            CONTACT SECTION
+        =========================== -->
+
+        <section class="contact-section">
+
+            <div class="container">
+
+                <!-- Contact Information -->
+
+                <div class="contact-info">
+
+                    <h2>Get In Touch</h2>
+
+                    <p>
+                        Whether you have a question about our menu, want to find out more
+                        about The Corner Cup or simply want to say hello, feel free to get
+                        in touch with our team.
+                    </p>
+
+
+                    <div class="contact-details">
+
+                        <div class="contact-item">
+
+                            <div class="contact-icon">
+                                📍
+                            </div>
+
+                            <div>
+
+                                <h3>Visit Us</h3>
+
+                                <p>
+                                    123 High Street<br>
+                                    Warrington<br>
+                                    WA1 1AA
+                                </p>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="contact-item">
+
+                            <div class="contact-icon">
+                                📞
+                            </div>
+
+                            <div>
+
+                                <h3>Call Us</h3>
+
+                                <p>
+                                    <a href="tel:01925123456">
+                                        01925 123456
+                                    </a>
+                                </p>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="contact-item">
+
+                            <div class="contact-icon">
+                                ✉️
+                            </div>
+
+                            <div>
+
+                                <h3>Email Us</h3>
+
+                                <p>
+                                    <a href="mailto:hello@thecornercup.co.uk">
+                                        hello@thecornercup.co.uk
+                                    </a>
+                                </p>
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="contact-item">
+
+                            <div class="contact-icon">
+                                📱
+                            </div>
+
+                            <div>
+
+                                <h3>Follow Us</h3>
+
+                                <p>
+                                    Find us on Instagram and Facebook
+                                </p>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- Contact Form -->
+
+                <div class="contact-form-container">
+
+                    <form class="contact-form" id="contact-form">
+
+                        <h2>Send Us A Message</h2>
+
+                        <p>
+                            Fill in the form below and we'll get back to you as soon as possible.
+                        </p>
+
+
+                        <div class="form-row">
+
+                            <div class="form-group">
+
+                                <label for="name">
+                                    Your Name
+                                </label>
+
+                                <input
+                                    type="text"
+                                    id="name"
+                                    name="name"
+                                    placeholder="Enter your name"
+                                    required
+                                >
+
+                            </div>
+
+
+                            <div class="form-group">
+
+                                <label for="email">
+                                    Email Address
+                                </label>
+
+                                <input
+                                    type="email"
+                                    id="email"
+                                    name="email"
+                                    placeholder="Enter your email"
+                                    required
+                                >
+
+                            </div>
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label for="subject">
+                                Subject
+                            </label>
+
+                            <input
+                                type="text"
+                                id="subject"
+                                name="subject"
+                                placeholder="What is your message about?"
+                                required
+                            >
+
+                        </div>
+
+
+                        <div class="form-group">
+
+                            <label for="message">
+                                Message
+                            </label>
+
+                            <textarea
+                                id="message"
+                                name="message"
+                                rows="6"
+                                placeholder="Write your message here..."
+                                required
+                            ></textarea>
+
+                        </div>
+
+
+                        <button type="submit" class="cta-button">
+                            Send Message
+                        </button>
+
+                    </form>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ==========================
+            SOCIAL SECTION
+        =========================== -->
+
+        <section class="social-section">
+
+            <div class="container">
+
+                <div class="section-heading">
+
+                    <h2>Stay Connected</h2>
+
+                    <p>
+                        Follow The Corner Cup on social media for coffee, food and
+                        café updates.
+                    </p>
+
+                </div>
+
+
+                <div class="social-links">
+
+                    <a href="#" class="social-card">
+
+                        <span class="social-icon">📸</span>
+
+                        <h3>Instagram</h3>
+
+                        <p>@thecornercup</p>
+
+                    </a>
+
+
+                    <a href="#" class="social-card">
+
+                        <span class="social-icon">f</span>
+
+                        <h3>Facebook</h3>
+
+                        <p>The Corner Cup</p>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </section>
+
+
+        <!-- ==========================
+            CTA
+        =========================== -->
+
+        <section class="contact-cta">
+
+            <div class="container">
+
+                <h2>Come and See Us</h2>
+
+                <p>
+                    We'd love to welcome you to The Corner Cup.
+                    Find us in the heart of Warrington.
+                </p>
+
+                <a href="find-us.html" class="cta-button">
+                    Find Us
+                </a>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <!--==========================================================FOOTER==========================================================-->
+
+    <footer>
+
+        <div class="footer-container">
+
+            <div class="footer-column">
+
+                <h3>The Corner Cup</h3>
+
+                <p>240 London Road</p>
+                <p>Stockton Heath</p>
+                <p>Warrington</p>
+
+            </div>
+
+            <div class="footer-column">
+
+                <h3>Quick Links</h3>
+
+                <a href="home.html">Home</a>
+                <a href="menu.html">Menu</a>
+                <a href="about.html">About</a>
+                <a href="find-us.html">Visit Us</a>
+                <a href="contact.html">Contact</a>
+                <a href="reviews.html">Reviews</a>
+
+            </div>
+
+            <div class="footer-column">
+
+                <h3>Open Hours</h3>
+
+                <p>Monday-Saturday: 7:30am-5:00pm</p>
+                <p>Sunday: 8:00am-4:30pm</p>
+
+            </div>
+
+        </div>
+
+        <hr>
+
+        <div class="footer-bottom">
+
+            <p>&copy; 2026 The Corner Cup. All Rights Reserved.</p>
+
+            <p>
+                Website designed & developed by<br>
+                <strong>Oliver Pidgen</strong><br>
+                oliver.pidgen@icloud.com
+            </p>
+
+        </div>
+
+    </footer>
+    <script src="../js/script.js"></script>
+</body>
+</html>
