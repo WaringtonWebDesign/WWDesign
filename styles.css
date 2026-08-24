@@ -1214,7 +1214,7 @@ footer{
     text-align: center;
     background:
         linear-gradient(rgba(13,17,23,.75), rgba(13,17,23,.75)),
-        url("../images/contact-hero.jpeg");
+        url("images/contact-hero.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -1488,8 +1488,8 @@ footer{
     align-items: center;
     text-align: center;
     background:
-    linear-gradient(rgba(13,17,23,.75), rgba(13,17,23,.75)),
-    url("../images/faq-hero.jpeg");
+        linear-gradient(rgba(13,17,23,.75), rgba(13,17,23,.75)),
+        url("images/faq-hero.jpeg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
