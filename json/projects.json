@@ -25,4 +25,17 @@
         ],
         "path": "../projects/the-corner-cup/index.html"
     }
+
+    {
+        "title": "WA4TechSOS",
+        "category": "Tech Shop",
+        "image": "../images/project images/wa4techsos.png",
+        "description": "WA4TechSOS is a tech shop website built using HTML, CSS, JSON and JavaScript. The website design is tailored for the tech industry.",
+        "technologies": [
+            "HTML",
+            "CSS",
+            "JavaScript"
+        ],
+        "path": "https://wa4techsos.co.uk"
+    }
 ]
